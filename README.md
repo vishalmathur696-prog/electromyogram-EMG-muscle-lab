@@ -1,1 +1,3 @@
-# electromyogram-EMG-muscle-lab
+# electromyogram-EMG-muscle-labma
+my name is vishal  mathur 
+branch - information technology 
